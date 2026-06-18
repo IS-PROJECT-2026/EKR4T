@@ -45,7 +45,7 @@ I’m a passionate software developer and problem-solver focused on building int
 
 ## Connect With Me
 
-- 💼 **Professional Network:** 
+- 💼 **Professional Network:** [LinkedIn](https://www.linkedin.com/in/emmanuel-keter-a051b4306)
 - 📧 **Direct Contact:** Emmanuelketer124@gmail.com
 
 <p align="center">
