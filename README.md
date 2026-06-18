@@ -13,6 +13,7 @@ I’m a passionate software developer and problem-solver focused on building int
 
 
 ⚡ **Core Interests:** Artificial Intelligence, Fintech, Agritech, Web Development, Data Systems, and building scalable cloud-powered solutions.
+
 ---
 
 ## Technical Ecosystem
